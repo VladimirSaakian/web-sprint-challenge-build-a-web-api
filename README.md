@@ -147,7 +147,11 @@ We have provided test data for all the resources.
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. The core features of Node.js and Express and why they are useful.
+It's a light, scalable and open-source language platform
 1. Understand and explain the use of Middleware.
+middleware enables communication and data management for distributed applications
 1. The basic principles of the REST architectural style.
+REST is stateless. That means the communication between the client and the server always contains all the information needed to perform the request. There is no session state in the server, it is kept entirely on the client's side.
 1. Understand and explain the use of Express Routers.
+The express. Router() function is used to create a new router object
 1. Describe tooling used to manually test the correctness of an API.
